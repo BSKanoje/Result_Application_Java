@@ -9,5 +9,7 @@ public class Student {
 	public int scienceObtained;
 	public int englishObtained;
 	
+	public static String standard = "10th";
+	
 	// total mark of each subject is 100
 }
